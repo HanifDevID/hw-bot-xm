@@ -12,7 +12,7 @@ const { exec } = require('child_process')
 const moment = require('moment-timezone')
 const { banner, start, success } = require('./lib/functions')
 const { color } = require('./lib/color')
-const gcrevoke = ["6285714160944-1621430788@g.us"]
+const gcrevoke = ["447451233140-1621430788@g.us"]
 blocked = []
 
 require('./index.js')
